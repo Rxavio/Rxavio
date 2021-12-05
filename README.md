@@ -5,9 +5,8 @@
 <br>
 
 [![Rxavio's github stats](https://github-readme-stats.vercel.app/api?username=Rxavio)](https://github.com/Rxavio/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rxavio&layout=compact&cache_seconds=86400&theme=dark" alt="Rxavio" /></p>
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rxavio&cache_seconds=86400&theme=dark" alt="Rxavio" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rxavio&layout=compact&cache_seconds=86400&theme=dark" alt="Rxavio" />
 <br>
 
 ## Programming languages & Frameworks
