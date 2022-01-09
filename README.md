@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi There , I'm Xavier <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4 align="center">I am a Fullstack Developer, currently focusing on java, spring boot, android,js(react etc...) and data structure with <a href="https://amalitech.org/">AmaliTech Training Academy</a></h4>
+<h4 align="center">I am a Fullstack Developer, currently focusing on java, spring boot, android ,js(react etc...) and data structure with <a href="https://amalitech.org/">AmaliTech Training Academy</a></h4>
 <br>
 
 [![Rxavio's github stats](https://github-readme-stats.vercel.app/api?username=Rxavio)](https://github.com/Rxavio/github-readme-stats)
