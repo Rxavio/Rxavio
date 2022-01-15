@@ -4,10 +4,10 @@
 <h4 align="center">I am a Fullstack Developer, currently focusing on java, spring boot, android , js(react etc...) and data structure with <a href="https://amalitech.org/">AmaliTech Training Academy</a></h4>
 <br>
 
-[![Rxavio's github stats](https://github-readme-stats.vercel.app/api?username=Rxavio)](https://github.com/Rxavio/github-readme-stats)
+<!-- [![Rxavio's github stats](https://github-readme-stats.vercel.app/api?username=Rxavio)](https://github.com/Rxavio/github-readme-stats)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rxavio&cache_seconds=86400&theme=dark" alt="Rxavio" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rxavio&layout=compact&cache_seconds=86400&theme=dark" alt="Rxavio" />
-<br>
+<br> -->
 
 ## Programming languages & Frameworks
 
