@@ -40,7 +40,9 @@
    <img alt="Spring boot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
    &emsp;
    <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-&emsp;	
+&emsp;
+<img alt="Django" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+&emsp;			
 </p>
 <br/>
 
@@ -56,7 +58,7 @@
 &emsp;
 </p>
 
-## Hosting
+## Deployment
 
 <p align="left"> 
   &emsp;
@@ -64,8 +66,10 @@
   &emsp;
     <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white">
 &emsp;
-<img alt="aos" src="aos.png" width="40px" height="40px">
+    <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
 &emsp;
+<!-- <img alt="aos" src="aos.png" width="40px" height="40px">
+&emsp; -->
 </p>
 
 ##Reach out to me
